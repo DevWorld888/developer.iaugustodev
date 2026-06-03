@@ -52,6 +52,13 @@ export default function Hero() {
         >
           GitHub
         </a>
+        <a
+          href="/HvSoftwareDevAugusto.pdf"
+          download
+          className="rounded-full border border-[#2a2a3a] px-7 py-3 text-sm font-semibold text-[#94a3b8] transition hover:border-emerald-500/60 hover:text-emerald-400"
+        >
+          Download Resume
+        </a>
       </div>
 
       {/* Scroll hint */}
